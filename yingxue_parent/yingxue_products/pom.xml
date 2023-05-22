@@ -33,6 +33,7 @@
         <dependency>
             <groupId>technology.tabula</groupId>
             <artifactId>tabula</artifactId>
+            <version>${tabula.version}</version>
         </dependency>
 
     </dependencies>

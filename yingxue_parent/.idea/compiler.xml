@@ -14,10 +14,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="yingxue_commons" options="-parameters" />
+      <module name="yingxue_commons" options="" />
       <module name="yingxue_parent" options="-parameters" />
-      <module name="yingxue_products" options="-parameters" />
-      <module name="yingxue_users" options="-parameters" />
+      <module name="yingxue_products" options="" />
+      <module name="yingxue_users" options="" />
     </option>
   </component>
 </project>

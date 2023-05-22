@@ -6,7 +6,9 @@
     <file url="file://$PROJECT_DIR$/yingxue_commons/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yingxue_products" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yingxue_products/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yingxue_products/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yingxue_users" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yingxue_users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yingxue_users/src/main/resources" charset="UTF-8" />
   </component>
 </project>
