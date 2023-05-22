@@ -26,7 +26,7 @@
         <java.version>1.8</java.version>
         <spring.cloud.version>Hoxton.SR6</spring.cloud.version>
         <lombok.version>1.18.12</lombok.version>
-        <tabula.version>1.0.0</tabula.version>
+        <tabula.version>1.0.5</tabula.version>
         <spring.version>2.2.5.RELEASE</spring.version>
     </properties>
 
